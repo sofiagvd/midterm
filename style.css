@@ -1,0 +1,46 @@
+body{
+	background-color: white;
+	margin-top: 100px;
+	margin-left:50px;
+	margin-right: 50px;
+
+}
+h1{
+	font-family: 'IM Fell Double Pica SC', serif;
+	margin-left: 350px;
+	font-size: 150px;
+	color: black;
+	letter-spacing: 20px;
+
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+  overflow: hidden;
+  background-color: grey;
+  font-size: 20px;
+  margin-top: 0px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: lightgray;
+}
+
+
+p {
+	border-style: groove;
+
+
+}
